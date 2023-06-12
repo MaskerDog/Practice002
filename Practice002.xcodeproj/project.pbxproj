@@ -19,6 +19,7 @@
 		E49B57D82A3729930000AB8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E49B57DA2A3729940000AB8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E49B57DD2A3729940000AB8E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E49B57E42A372A610000AB8E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 			children = (
 				E49B57D62A3729930000AB8E /* Practice002App.swift */,
 				E49B57D82A3729930000AB8E /* ContentView.swift */,
+				E49B57E42A372A610000AB8E /* README.md */,
 				E49B57DA2A3729940000AB8E /* Assets.xcassets */,
 				E49B57DC2A3729940000AB8E /* Preview Content */,
 			);
