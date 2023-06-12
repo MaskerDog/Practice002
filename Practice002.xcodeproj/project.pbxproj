@@ -36,6 +36,7 @@
 		E49B57CA2A3729930000AB8E = {
 			isa = PBXGroup;
 			children = (
+				E49B57E42A372A610000AB8E /* README.md */,
 				E49B57D52A3729930000AB8E /* Practice002 */,
 				E49B57D42A3729930000AB8E /* Products */,
 			);
@@ -54,7 +55,6 @@
 			children = (
 				E49B57D62A3729930000AB8E /* Practice002App.swift */,
 				E49B57D82A3729930000AB8E /* ContentView.swift */,
-				E49B57E42A372A610000AB8E /* README.md */,
 				E49B57DA2A3729940000AB8E /* Assets.xcassets */,
 				E49B57DC2A3729940000AB8E /* Preview Content */,
 			);
